@@ -1,2 +1,2 @@
-# Organização e Arquitetura de computadores I
+# Organização e Arquitetura de Computadores I
 Discipline practices.
