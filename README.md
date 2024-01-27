@@ -1,2 +1,2 @@
-# OAC_1
+# Organização e Arquitetura de computadores I
 Discipline practices.
